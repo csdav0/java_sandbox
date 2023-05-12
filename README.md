@@ -1,1 +1,1 @@
-# java_sandbox
+# Sandbox for various exercises/practice
